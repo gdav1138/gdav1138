@@ -17,6 +17,9 @@ Before pivoting into CS, I spent nearly a decade in team leadership and operatio
 Most of my coursework lives outside GitHub (university repos), but some of the areas I've focused on include:
 
 - **Computer Graphics** — Built a procedural planet renderer in C++/OpenGL with custom GLSL shaders for terrain generation, per-fragment lighting, and real-time animation
+<img width="800" height="450" alt="PlanetGenerator-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d9356d8a-1036-48e3-8dfb-2610b4d277aa" />
+
+  
 - **Operating Systems** — Wrote a Unix shell in C with fork/exec, I/O redirection, signal handling, and background process management
 - **Parallel Programming** — Distributed Fourier signal analysis across processors using MPI in C++
 
