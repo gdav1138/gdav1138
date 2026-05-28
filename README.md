@@ -6,7 +6,7 @@ Before pivoting into CS, I spent nearly a decade in team leadership and operatio
 
 ## What I've Been Working On
 
-**[Dungeons & Droids](https://github.com/gdav1138/Dungeons-Droids)** — A web-based single-player MUD built with Python, Flask, and MongoDB. Features persistent game state (inventory, progression, world data) and integrates an AI API for dynamic narrative generation. Deployed on AWS Elastic Beanstalk.
+**[Dungeons & Droids](https://github.com/gdav1138/Dungeons-Droids/blob/main/README.md)** — A web-based single-player MUD built with Python, Flask, and MongoDB. Features persistent game state (inventory, progression, world data) and integrates an AI API for dynamic narrative generation. Deployed on AWS Elastic Beanstalk.
 
 **[Recipe Catalog](https://github.com/gdav1138/Recipe-Catalog)** — A team-built desktop app (Python/Tkinter) with microservice architecture: recipe web scraping, a note-taking module, and a built-in cooking timer. Built collaboratively with a focus on modular design.
 
