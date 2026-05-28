@@ -1,6 +1,6 @@
 # Hey, I'm Gage
 
-I'm finishing my B.S. in Applied Computer Science with a focus on **Game Design and Simulation** at Oregon State University (June 2026). I'm interested in gameplay engineering, graphics programming, and systems-level development.
+I'm finishing my B.S. in Applied Computer Science with a focus on **Game Design and Simulation** at Oregon State University (June 2026). I'm interested in gameplay engineering, graphics programming, and software/systems-level development.
 
 Before pivoting into CS, I spent nearly a decade in team leadership and operations management. That experience shaped how I approach collaboration, problem-solving, and building things that work for real people.
 
