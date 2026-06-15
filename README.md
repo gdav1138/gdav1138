@@ -1,8 +1,11 @@
 # Hey, I'm Gage
 
-I'm finishing my B.S. in Applied Computer Science with a focus on **Game Design and Simulation** at Oregon State University (June 2026). I'm interested in gameplay engineering, graphics programming, and software/systems-level development.
+Having achieved my B.S. in Applied Computer Science with a focus on **Game Design and Simulation** at Oregon State University, I'm very interested in getting my feet wet in the wide world of software development/engineering! With a major interest in gameplay engineering, software/systems-level development, and all things front-end/back-end, I hope to explore 
+and excel with a company who I can align my goals and expertise with. 
 
-Before pivoting into CS, I spent nearly a decade in team leadership and operations management. That experience shaped how I approach collaboration, problem-solving, and building things that work for real people.
+## About Me
+
+Before pivoting into CS, I spent nearly a decade in team leadership and operations management centered around the sales industry. That experience shaped how I approach collaboration, problem-solving, and building things that work for real people. But after a certain amount of time in that role, I wanted to explore something more challenging and fullfilling. For the longest time, I have had a heavy interest in all things involving computers. From putting together personal machines to troubleshooting various technical issues at previous employers, I thrived and enjoyed overcoming those various challenges. As a result, Computer Science felt like the perfect fit to expand my technical knowledge while allowing room for growth in overcoming sophisticated problems! 
 
 ## What I've Been Working On
 
@@ -21,7 +24,11 @@ Most of my coursework lives outside GitHub (university repos), but some of the a
 
   
 - **Operating Systems** — Wrote a Unix shell in C with fork/exec, I/O redirection, signal handling, and background process management
+
+  
 - **Parallel Programming** — Distributed Fourier signal analysis across processors using MPI in C++
+
+- **Database-Backed Systems** - Utilizing various database systems like Postgres or MongoDB to further improve backend systems and support safe storage of important data. 
 
 ## Get In Touch
 
